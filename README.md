@@ -11,4 +11,6 @@ This is a link to the website of my university: [HSE](https://www.hse.ru/)
 2. Spanish
   + This language is very beatiful
   + The coolest songs are in Spanish
-
+#### _Sometimes I like ro lie and do nothing, however I love sport. When I was a little girl, I tried many different kinds of sports but the best sport for me it's a figure skating._ 
+#### One more thing I like it's my phone. It helps me with absolutely everything. I play it when i'm boring, I listen to music, watch a lot of films, talk with my friends and family. ***I do what I want!***
+#### _I LOVE MY LIFE, MY FRIENDS, MY FAMILY AND MY UNIVERSITY!!!_

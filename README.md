@@ -14,4 +14,13 @@ This is a link to the website of my university: [HSE](https://www.hse.ru/)
 #### _Sometimes I like ro lie and do nothing, however I love sport. When I was a little girl, I tried many different kinds of sports but the best sport for me it's a figure skating._ 
 #### One more thing I like it's my phone. It helps me with absolutely everything. I play it when i'm bored, I listen to music, watch a lot of films, talk with my friends and family. ***I do what I want!***
 #### _I LOVE MY LIFE, MY FRIENDS, MY FAMILY AND MY UNIVERSITY!!!_
-![](https://yandex.ru/images/touch/search?source=collections&text=высшая%20школа%20экономики&img_url=https%3A%2F%2Fs0.rbk.ru%2Fv6_top_pics%2Fmedia%2Fimg%2F0%2F76%2F754598824472760.jpeg&pos=7&rpt=simage)
+![](http://lobach-school.ru/media/data/Picture/XtzOAMijvFs.jpg)
+#### _MY TIMETABLE_
+Понедельник|Вторник|Среда|Четверг|Пятница
+:---|:---|:---|:---|:---
+**9:00-10:20**|**9:00-10:20** Латинский язык|**9:00-10:20**|**9:00-10:20** Испанский язык|**9:00-10:20**
+**10:30-11:50** Цифровая грамотнось (семинар)|**10:30-11:50** Практика речи|**10:30-11:50**|**10:30-11:50** Английский язык (видео)|**10:30-11:50**
+**12:10-13:30** Цифровая грамотность (лекция)|**12:10-13:30** Испанский язык|**12:10-13:30** Практика речи|**12:10-13:30** Фонетика|**12:10-13:30**
+**13:40-15:00**|**13:40-15:00** Испанский язык|**13:40-15:00** Практика речи|**13:40-15:00**|**13:40-15:00**
+**15:10-16:30**|**15:10-16:30**|**15:10-16:30** НИС|**15:10-16:30** Грамматика|**15:10-16:30** МКН (лекция)
+**16:40-18:00**|**16:40-18:00**|**16:40-18:00** МКН (семинар)|**16:40-18:00** Грамматика|**16:40-18:00**
